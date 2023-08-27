@@ -1,10 +1,10 @@
-Introduction
+#Introduction
 
 
 Unveil the secret techniques used by popular websites like Instagram to create mesmerizing user experiences! The JavaScript Magic for Real-life Effects project dives into the captivating world of web development, showcasing real-life tricks that breathe life into your web pages. From smooth animations to delightful hover effects, this project brings the fun and wow factor right to your fingertips.
 
 
-Features
+#Features
 
 
 Smooth animations that follow your mouse cursor's every move.
